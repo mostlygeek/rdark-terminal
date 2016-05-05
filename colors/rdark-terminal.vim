@@ -36,7 +36,7 @@ hi Number term=NONE cterm=NONE ctermbg=bg ctermfg=113
 hi String term=NONE cterm=NONE ctermbg=bg ctermfg=113
 hi Function term=NONE cterm=NONE ctermbg=bg ctermfg=215
 hi SpecialKey term=bold cterm=NONE ctermbg=bg ctermfg=196
-hi NonText term=bold cterm=NONE ctermbg=8 ctermfg=236
+hi NonText term=bold cterm=NONE ctermbg=0 ctermfg=1
 hi MatchParen term=reverse cterm=NONE ctermbg=215 ctermfg=23
 hi Comment term=bold cterm=NONE ctermbg=bg ctermfg=245
 hi Constant term=underline cterm=NONE ctermbg=bg ctermfg=113
